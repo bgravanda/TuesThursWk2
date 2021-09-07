@@ -7,6 +7,6 @@ public class Main {
         System.out.print("How old are you?");
         var age = reader.nextFloat();
         var dogyears = age*7;
-        System.out.println("Wow you are "+age+7" that is " +dogyears+ " in dog year");
+        System.out.println("Wow you are "+age+" that is " +dogyears+ " in dog year");
     }
 }
