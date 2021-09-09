@@ -14,5 +14,9 @@ public class Example3 {
 
             }
         }
+        System.out.println("The students in your class are:");
+        for (var Name: studentNames){
+            System.out.println(Name);
+        }
     }
 }
